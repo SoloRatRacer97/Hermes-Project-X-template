@@ -8,6 +8,8 @@
   /* ── Warm amber accent — energetic, stands out on navy ── */
   --color-accent: hsl(36 95% 55%);
   --color-accent-foreground: hsl(221 83% 22%);
+  --color-warm-accent: hsl(28 88% 50%);
+  --color-warm-accent-foreground: hsl(0 0% 100%);
 
   /* ── Surfaces ── */
   --color-background: hsl(220 14% 98%);

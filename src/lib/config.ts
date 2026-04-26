@@ -106,6 +106,7 @@ export const siteConfig = {
     {
       name: "Basic",
       price: "99",
+      priceUnit: "/visit",
       description: "Diagnostic & minor repair",
       features: [
         "Full diagnostic inspection",
@@ -119,6 +120,7 @@ export const siteConfig = {
     {
       name: "Standard",
       price: "249",
+      priceUnit: "/visit",
       description: "Repair + preventive maintenance",
       features: [
         "Everything in Basic",
@@ -133,6 +135,7 @@ export const siteConfig = {
     {
       name: "Premium",
       price: "499",
+      priceUnit: "/visit",
       description: "Full service + ongoing support",
       features: [
         "Everything in Standard",
